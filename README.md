@@ -1,4 +1,4 @@
-## Olá, sou o Vinícius! 🙋‍♂️
+## Olá! 🙋‍♂️
 
 - 🔭 Sou estudante de Sistemas de Informação e um apaixonado por desenvolvimento web.
 - 👯 Minha jornada profissional começou em 2022, onde trabalhei na área de Front-End na empresa Banestes - Banco do Estado do Espírito Santo.
