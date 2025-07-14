@@ -18,7 +18,6 @@ Iniciei minha carreira como estagiário de Front-end no Banestes, onde participe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30" style="margin-right:8px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="30" height="30" style="margin-right:8px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" height="30" style="margin-right:8px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Google_Apps_Script_Icon.png" alt="Google Apps Script" width="30" height="30" style="margin-right:8px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="30" height="30" style="margin-right:8px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30" style="margin-right:8px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="30" height="30" style="margin-right:8px"/>
@@ -34,11 +33,6 @@ Iniciei minha carreira como estagiário de Front-end no Banestes, onde participe
 - Fundamentos de SQL – FGV  
 - BIG DATA & ANALYTICS – FIAP  
 - DevOps & Agile Culture – FIAP  
-
----
-
-
-[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/spotify.svg" alt="Spotify" width="30" height="30" style="vertical-align:middle;margin-right:6px"/> Meu perfil no Spotify](https://open.spotify.com/user/-vns)
 
 ---
 
