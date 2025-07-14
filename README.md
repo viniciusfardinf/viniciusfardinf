@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Vinícius
 
-Sou estudante de Sistemas de Informação na FAESA, com previsão de conclusão em 2026, e atuo há 4 anos nas áreas de Tecnologia da Informação e Customer Experience. Ao longo da minha trajetória, desenvolvi habilidades técnicas em desenvolvimento front-end, atendimento ao cliente e análise de sistemas, sempre com foco na experiência do usuário e na melhoria contínua de processos.
+Sou estudante de Sistemas de Informação, com previsão de conclusão em 2026, e atuo há 4 anos nas áreas de Tecnologia da Informação e Customer Experience. Ao longo da minha trajetória, desenvolvi habilidades técnicas em desenvolvimento front-end, atendimento ao cliente e análise de sistemas, sempre com foco na experiência do usuário e na melhoria contínua de processos.
 
 ---
 
