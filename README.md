@@ -25,12 +25,14 @@ Sou estudante de Sistemas de Informação, com previsão de conclusão em 2026, 
 
 ## 📚 Cursos Concluídos
 
+- Foundational C# with Microsoft - freeCodeCamp
 - Front End Development Libraries – freeCodeCamp  
 - Responsive Web Design – freeCodeCamp  
 - JavaScript Algorithms and Data Structures – freeCodeCamp  
 - Fundamentos de SQL – FGV  
 - BIG DATA & ANALYTICS – FIAP  
-- DevOps & Agile Culture – FIAP  
+- DevOps & Agile Culture – FIAP
+
 
 ---
 
