@@ -2,6 +2,8 @@
 
 Sou estudante de Sistemas de Informação, com previsão de conclusão em 2026, e atuo há 4 anos nas áreas de Tecnologia da Informação e Customer Experience. Ao longo da minha trajetória, desenvolvi habilidades técnicas em desenvolvimento front-end, atendimento ao cliente e análise de sistemas, sempre com foco na experiência do usuário e na melhoria contínua de processos.
 
+Meu Porfifólio: https://viniciusfardin.vercel.app
+
 ---
 
 ## 🚀 Habilidades Técnicas
@@ -36,6 +38,5 @@ Sou estudante de Sistemas de Informação, com previsão de conclusão em 2026, 
 
 ## 📫 Conecte-se comigo
 
-Meu Porfifólio: https://viniciusfardin.vercel.app
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-fardin-de-figueiredo-7864a7173/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viniciusfardinf/)
